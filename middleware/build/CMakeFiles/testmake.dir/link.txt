@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -Wall -pthread  -rdynamic CMakeFiles/testmake.dir/main.cpp.o CMakeFiles/testmake.dir/src/CBuffer.cpp.o CMakeFiles/testmake.dir/src/CLogfile.cpp.o CMakeFiles/testmake.dir/src/CLogstream.cpp.o CMakeFiles/testmake.dir/src/CTime.cpp.o CMakeFiles/testmake.dir/src/CTimer.cpp.o  -o testmake 

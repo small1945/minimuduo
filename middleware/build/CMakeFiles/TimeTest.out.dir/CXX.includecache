@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Timer/include/CTime.h
+time.h
+-
+string.h
+-
+string
+-
+
+/home/gc/Desktop/nanolog/src/CBuffer.cpp
+CBuffer.h
+/home/gc/Desktop/nanolog/src/CBuffer.h
+
+/home/gc/Desktop/nanolog/src/CLogfile.cpp
+CLogfile.h
+/home/gc/Desktop/nanolog/src/CLogfile.h
+
+/home/gc/Desktop/nanolog/src/CLogstream.cpp
+Logstream.h
+/home/gc/Desktop/nanolog/src/Logstream.h
+
+/home/gc/Desktop/nanolog/src/CTime.cpp
+CTime.h
+/home/gc/Desktop/nanolog/src/CTime.h
+time.h
+-
+
+/home/gc/Desktop/nanolog/test/TimeTest.cpp
+CTime.h
+/home/gc/Desktop/nanolog/test/CTime.h
+

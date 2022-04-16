@@ -1,0 +1,3 @@
+/home/gc/Desktop/nanolog/build/CMakeFiles/rebuild_cache.dir
+/home/gc/Desktop/nanolog/build/CMakeFiles/TimerTest.out.dir
+/home/gc/Desktop/nanolog/build/CMakeFiles/edit_cache.dir

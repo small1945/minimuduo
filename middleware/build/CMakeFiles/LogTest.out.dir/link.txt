@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -Wall -pthread  -rdynamic CMakeFiles/LogTest.out.dir/test/LogTest.cpp.o CMakeFiles/LogTest.out.dir/src/CBuffer.cpp.o CMakeFiles/LogTest.out.dir/src/CLogfile.cpp.o CMakeFiles/LogTest.out.dir/src/CLogstream.cpp.o CMakeFiles/LogTest.out.dir/src/CTime.cpp.o  -o LogTest.out 
