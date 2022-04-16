@@ -1,0 +1,6 @@
+/home/gc/Desktop/Reactor/build/CMakeFiles/edit_cache.dir
+/home/gc/Desktop/Reactor/build/CMakeFiles/chatserver.dir
+/home/gc/Desktop/Reactor/build/CMakeFiles/chatclient.dir
+/home/gc/Desktop/Reactor/build/CMakeFiles/rebuild_cache.dir
+/home/gc/Desktop/Reactor/build/CMakeFiles/tcpclienttest.dir
+/home/gc/Desktop/Reactor/build/CMakeFiles/pipelineFile.dir

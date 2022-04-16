@@ -1,0 +1,382 @@
+[
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/test/ChatServer.cpp.o -c /home/gc/Desktop/Reactor/test/ChatServer.cpp",
+  "file": "/home/gc/Desktop/Reactor/test/ChatServer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CConnector.cpp.o -c /home/gc/Desktop/Reactor/src/CConnector.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CConnector.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTcpClient.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpClient.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpClient.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CAcceptor.cpp.o -c /home/gc/Desktop/Reactor/src/CAcceptor.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CAcceptor.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CEpoll.cpp.o -c /home/gc/Desktop/Reactor/src/CEpoll.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEpoll.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CEventLoop.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoop.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoop.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/Channel.cpp.o -c /home/gc/Desktop/Reactor/src/Channel.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/Channel.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CSocket.cpp.o -c /home/gc/Desktop/Reactor/src/CSocket.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CSocket.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/Thread.cc.o -c /home/gc/Desktop/Reactor/src/Thread.cc",
+  "file": "/home/gc/Desktop/Reactor/src/Thread.cc"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTcpServer.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpServer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpServer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTcpConnection.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpConnection.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpConnection.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CInetaddr.cpp.o -c /home/gc/Desktop/Reactor/src/CInetaddr.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CInetaddr.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CEventLoopthread.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthread.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthread.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CEventLoopthreadpool.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CBuffer.cpp.o -c /home/gc/Desktop/Reactor/src/CBuffer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CBuffer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTimer.cpp.o -c /home/gc/Desktop/Reactor/src/CTimer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTime.cpp.o -c /home/gc/Desktop/Reactor/src/CTime.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTime.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTimerqueue.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerqueue.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerqueue.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatserver.dir/src/CTimerManager.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerManager.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerManager.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/test/ChatClient.cpp.o -c /home/gc/Desktop/Reactor/test/ChatClient.cpp",
+  "file": "/home/gc/Desktop/Reactor/test/ChatClient.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CConnector.cpp.o -c /home/gc/Desktop/Reactor/src/CConnector.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CConnector.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTcpClient.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpClient.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpClient.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CAcceptor.cpp.o -c /home/gc/Desktop/Reactor/src/CAcceptor.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CAcceptor.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CEpoll.cpp.o -c /home/gc/Desktop/Reactor/src/CEpoll.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEpoll.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CEventLoop.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoop.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoop.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/Channel.cpp.o -c /home/gc/Desktop/Reactor/src/Channel.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/Channel.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CSocket.cpp.o -c /home/gc/Desktop/Reactor/src/CSocket.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CSocket.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/Thread.cc.o -c /home/gc/Desktop/Reactor/src/Thread.cc",
+  "file": "/home/gc/Desktop/Reactor/src/Thread.cc"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTcpServer.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpServer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpServer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTcpConnection.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpConnection.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpConnection.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CInetaddr.cpp.o -c /home/gc/Desktop/Reactor/src/CInetaddr.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CInetaddr.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CEventLoopthread.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthread.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthread.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CEventLoopthreadpool.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CBuffer.cpp.o -c /home/gc/Desktop/Reactor/src/CBuffer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CBuffer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTimer.cpp.o -c /home/gc/Desktop/Reactor/src/CTimer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTime.cpp.o -c /home/gc/Desktop/Reactor/src/CTime.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTime.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTimerqueue.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerqueue.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerqueue.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/chatclient.dir/src/CTimerManager.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerManager.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerManager.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/test/tcpclientTest.cpp.o -c /home/gc/Desktop/Reactor/test/tcpclientTest.cpp",
+  "file": "/home/gc/Desktop/Reactor/test/tcpclientTest.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CConnector.cpp.o -c /home/gc/Desktop/Reactor/src/CConnector.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CConnector.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTcpClient.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpClient.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpClient.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CAcceptor.cpp.o -c /home/gc/Desktop/Reactor/src/CAcceptor.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CAcceptor.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CEpoll.cpp.o -c /home/gc/Desktop/Reactor/src/CEpoll.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEpoll.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CEventLoop.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoop.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoop.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/Channel.cpp.o -c /home/gc/Desktop/Reactor/src/Channel.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/Channel.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CSocket.cpp.o -c /home/gc/Desktop/Reactor/src/CSocket.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CSocket.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/Thread.cc.o -c /home/gc/Desktop/Reactor/src/Thread.cc",
+  "file": "/home/gc/Desktop/Reactor/src/Thread.cc"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTcpServer.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpServer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpServer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTcpConnection.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpConnection.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpConnection.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CInetaddr.cpp.o -c /home/gc/Desktop/Reactor/src/CInetaddr.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CInetaddr.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CEventLoopthread.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthread.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthread.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CEventLoopthreadpool.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CBuffer.cpp.o -c /home/gc/Desktop/Reactor/src/CBuffer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CBuffer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTimer.cpp.o -c /home/gc/Desktop/Reactor/src/CTimer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTime.cpp.o -c /home/gc/Desktop/Reactor/src/CTime.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTime.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTimerqueue.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerqueue.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerqueue.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/tcpclienttest.dir/src/CTimerManager.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerManager.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerManager.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/test/pipelineFile.cpp.o -c /home/gc/Desktop/Reactor/test/pipelineFile.cpp",
+  "file": "/home/gc/Desktop/Reactor/test/pipelineFile.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CConnector.cpp.o -c /home/gc/Desktop/Reactor/src/CConnector.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CConnector.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTcpClient.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpClient.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpClient.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CAcceptor.cpp.o -c /home/gc/Desktop/Reactor/src/CAcceptor.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CAcceptor.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CEpoll.cpp.o -c /home/gc/Desktop/Reactor/src/CEpoll.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEpoll.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CEventLoop.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoop.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoop.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/Channel.cpp.o -c /home/gc/Desktop/Reactor/src/Channel.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/Channel.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CSocket.cpp.o -c /home/gc/Desktop/Reactor/src/CSocket.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CSocket.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/Thread.cc.o -c /home/gc/Desktop/Reactor/src/Thread.cc",
+  "file": "/home/gc/Desktop/Reactor/src/Thread.cc"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTcpServer.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpServer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpServer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTcpConnection.cpp.o -c /home/gc/Desktop/Reactor/src/CTcpConnection.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTcpConnection.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CInetaddr.cpp.o -c /home/gc/Desktop/Reactor/src/CInetaddr.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CInetaddr.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CEventLoopthread.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthread.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthread.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CEventLoopthreadpool.cpp.o -c /home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CEventLoopthreadpool.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CBuffer.cpp.o -c /home/gc/Desktop/Reactor/src/CBuffer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CBuffer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTimer.cpp.o -c /home/gc/Desktop/Reactor/src/CTimer.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimer.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTime.cpp.o -c /home/gc/Desktop/Reactor/src/CTime.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTime.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTimerqueue.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerqueue.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerqueue.cpp"
+},
+{
+  "directory": "/home/gc/Desktop/Reactor/build",
+  "command": "/usr/bin/g++   -I/home/gc/Desktop/Reactor/include   -g -std=c++11 -Wall -pthread -g   -o CMakeFiles/pipelineFile.dir/src/CTimerManager.cpp.o -c /home/gc/Desktop/Reactor/src/CTimerManager.cpp",
+  "file": "/home/gc/Desktop/Reactor/src/CTimerManager.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++   -g -std=c++11 -Wall -pthread -g  -rdynamic CMakeFiles/inettest.dir/test/test.cpp.o CMakeFiles/inettest.dir/src/CInetaddr.cpp.o  -o inettest 
