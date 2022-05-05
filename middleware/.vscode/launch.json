@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/home/gc/Desktop/nanolog/build/TimerTest.out",
+            "program": "/home/gc/Desktop/middleware/mysqlware/build/sqlpooltest",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
